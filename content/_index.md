@@ -1,5 +1,5 @@
 ---
-title: 'hot.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'hot.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 hot.com is under construction."
 ---
 
